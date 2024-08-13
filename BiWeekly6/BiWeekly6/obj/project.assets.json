@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\mhafi\\source\\repos\\BiWeekly6\\BiWeekly6\\BiWeekly6.csproj",
+      "projectUniqueName": "C:\\Users\\mhafi\\OneDrive\\Documents\\GitHub\\Shoaib\\BiWeekly6\\BiWeekly6\\BiWeekly6.csproj",
       "projectName": "BiWeekly6",
-      "projectPath": "C:\\Users\\mhafi\\source\\repos\\BiWeekly6\\BiWeekly6\\BiWeekly6.csproj",
+      "projectPath": "C:\\Users\\mhafi\\OneDrive\\Documents\\GitHub\\Shoaib\\BiWeekly6\\BiWeekly6\\BiWeekly6.csproj",
       "packagesPath": "C:\\Users\\mhafi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\mhafi\\source\\repos\\BiWeekly6\\BiWeekly6\\obj\\",
+      "outputPath": "C:\\Users\\mhafi\\OneDrive\\Documents\\GitHub\\Shoaib\\BiWeekly6\\BiWeekly6\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\mhafi\\AppData\\Roaming\\NuGet\\NuGet.Config",
